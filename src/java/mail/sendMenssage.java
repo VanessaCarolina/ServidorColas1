@@ -28,7 +28,7 @@ public class sendMenssage {
     public static String Username = "banco.banquito25@gmail.com";
     public static String PassWord = "distri123";
     String Mensage = "transaccion realizada ";
-    String To = "nmvanessa@hotmail.com";
+    String To = "ricardo10_21@hotmail.com";
     String Subject = "evento";
     
     public void SendMail() {
